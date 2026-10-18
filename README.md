@@ -4,7 +4,7 @@ Public privacy policy and terms pages for the yt-factory Google Cloud project (r
 
 ## Publish
 
-1. Replace every `CONTACT_EMAIL` with the channel's contact address.
+1. Replace every `ganeshshinde7111@gmail.com` with the channel's contact address.
 2. **Settings → Pages → Build and deployment → Deploy from a branch → `main` / root → Save.**
 3. Pages are served at `https://ganeshshinde7111.github.io/yt-factory-site/`:
    - Privacy: `/yt-factory-site/privacy.html`
